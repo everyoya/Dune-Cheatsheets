@@ -9,7 +9,7 @@ One place that explains the most common DuneSQL concepts clearly and visually.
 This repo will grow into a full set of explainers, examples, and additional cheatsheets over time.
 
 ### 📘 Download
-[Download the DuneSQL Cheatsheet (PDF)]("PDF%20Download/DuneSQL%20Cheatsheet.pdf")
+[Download the DuneSQL Cheatsheet (PDF)](PDF%20Download/DuneSQL%20Cheatsheet.pdf)
 
 ### 💙 Support
 If you find this helpful:  
